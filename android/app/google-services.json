@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "977625689406",
+    "firebase_url": "https://whoclient-b9be2.firebaseio.com",
+    "project_id": "whoclient-b9be2",
+    "storage_bucket": "whoclient-b9be2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977625689406:android:028c5a7c6034d6ad",
+        "android_client_info": {
+          "package_name": "com.whoclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977625689406-ub6trmcjijb7nhrcrqrcigpp9sb4j2el.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo9MVxImmhBvlyPUG8ffKWPVJ9lG5qC3k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
